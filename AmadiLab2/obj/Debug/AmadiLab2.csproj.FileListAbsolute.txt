@@ -1,0 +1,11 @@
+C:\Users\User\OneDrive\Prog. Analyst Yr 1\Introduction to Programming\C#\Labs\Lab 2\AmadiLab2\bin\Debug\AmadiLab2.exe.config
+C:\Users\User\OneDrive\Prog. Analyst Yr 1\Introduction to Programming\C#\Labs\Lab 2\AmadiLab2\bin\Debug\AmadiLab2.exe
+C:\Users\User\OneDrive\Prog. Analyst Yr 1\Introduction to Programming\C#\Labs\Lab 2\AmadiLab2\bin\Debug\AmadiLab2.pdb
+C:\Users\User\OneDrive\Prog. Analyst Yr 1\Introduction to Programming\C#\Labs\Lab 2\AmadiLab2\obj\Debug\AmadiLab2.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Prog. Analyst Yr 1\Introduction to Programming\C#\Labs\Lab 2\AmadiLab2\obj\Debug\AmadiLab2.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\OneDrive\Prog. Analyst Yr 1\Introduction to Programming\C#\Labs\Lab 2\AmadiLab2\obj\Debug\AmadiLab2.amadiLab2.resources
+C:\Users\User\OneDrive\Prog. Analyst Yr 1\Introduction to Programming\C#\Labs\Lab 2\AmadiLab2\obj\Debug\AmadiLab2.Properties.Resources.resources
+C:\Users\User\OneDrive\Prog. Analyst Yr 1\Introduction to Programming\C#\Labs\Lab 2\AmadiLab2\obj\Debug\AmadiLab2.csproj.GenerateResource.cache
+C:\Users\User\OneDrive\Prog. Analyst Yr 1\Introduction to Programming\C#\Labs\Lab 2\AmadiLab2\obj\Debug\AmadiLab2.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Prog. Analyst Yr 1\Introduction to Programming\C#\Labs\Lab 2\AmadiLab2\obj\Debug\AmadiLab2.exe
+C:\Users\User\OneDrive\Prog. Analyst Yr 1\Introduction to Programming\C#\Labs\Lab 2\AmadiLab2\obj\Debug\AmadiLab2.pdb
