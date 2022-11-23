@@ -94,6 +94,7 @@ namespace AmadiLab2
              lblAnswer.ResetText();
             textBox1.ResetText();
             textBox2.ResetText();
+            textBox1.Focus();
 
 
 
